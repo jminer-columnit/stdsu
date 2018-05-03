@@ -1,0 +1,7 @@
+{
+  "name": "ServiceNow Test Data Snapshot Utility",
+  "version": "1.0.0",
+  "author": "jminer@columnit.com",
+  "description": "A utility for snapshotting and inserting snapshots from/to a ServiceNow instance.",
+  "license": "MITNFA"
+}
